@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChangerKata", "CoinChangerKata\CoinChangerKata.csproj", "{B1F10AAE-C224-441D-8F2D-C433E8F97AE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChangerKata.UnitTests", "CoinChanger.UnitTests\CoinChangerKata.UnitTests.csproj", "{C76D343D-208A-4317-AF35-0BFF9446030A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1F10AAE-C224-441D-8F2D-C433E8F97AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F10AAE-C224-441D-8F2D-C433E8F97AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F10AAE-C224-441D-8F2D-C433E8F97AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F10AAE-C224-441D-8F2D-C433E8F97AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C76D343D-208A-4317-AF35-0BFF9446030A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76D343D-208A-4317-AF35-0BFF9446030A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76D343D-208A-4317-AF35-0BFF9446030A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76D343D-208A-4317-AF35-0BFF9446030A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {268C1FF1-80E6-4850-9306-04C183A3D580}
+	EndGlobalSection
+EndGlobal
